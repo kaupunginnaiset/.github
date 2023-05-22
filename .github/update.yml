@@ -1,0 +1,13 @@
+name: 'update'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs at 00:00
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lauravuo/fetch-contributors-action@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
