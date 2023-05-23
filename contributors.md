@@ -11,15 +11,15 @@
 
 ## Repositories
 
-### [kaupunginnaiset.github.io](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io) ([39 commits](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io/graphs/contributors))
-
-* [lauravuo](https://github.com/lauravuo) (100 %)
-    
 ### [alman-akka](https://github.com/kaupunginnaiset/alman-akka) ([73 commits](https://github.com/kaupunginnaiset/alman-akka/graphs/contributors))
 
 * [lauravuo](https://github.com/lauravuo) (60 %)
 * [eevajonnapanula](https://github.com/eevajonnapanula) (32 %)
 * [magdapoppins](https://github.com/magdapoppins) (8 %)
+    
+### [kaupunginnaiset.github.io](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io) ([39 commits](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io/graphs/contributors))
+
+* [lauravuo](https://github.com/lauravuo) (100 %)
     
 ### [.github](https://github.com/kaupunginnaiset/.github) ([0 commits](https://github.com/kaupunginnaiset/.github/graphs/contributors))
 
