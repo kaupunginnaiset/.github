@@ -13,9 +13,9 @@
 
 ### [alman-akka](https://github.com/kaupunginnaiset/alman-akka) ([73 commits](https://github.com/kaupunginnaiset/alman-akka/graphs/contributors))
 
-* [magdapoppins](https://github.com/magdapoppins) (8 %)
-* [eevajonnapanula](https://github.com/eevajonnapanula) (32 %)
 * [lauravuo](https://github.com/lauravuo) (60 %)
+* [eevajonnapanula](https://github.com/eevajonnapanula) (32 %)
+* [magdapoppins](https://github.com/magdapoppins) (8 %)
     
 ### [kaupunginnaiset.github.io](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io) ([44 commits](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io/graphs/contributors))
 
