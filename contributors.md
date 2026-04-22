@@ -5,19 +5,19 @@
 
 | avatar | username | name | count | of all commits |
 |--------|----------|------|---------|---|
-| <img src="https://avatars.githubusercontent.com/u/29113682?s=35&v=4" alt="lauravuo" width="35px" /> | [lauravuo](https://github.com/lauravuo) | Laura Vuorenoja | 6 | 100%
+| <img src="https://avatars.githubusercontent.com/u/29113682?s=35&v=4" alt="lauravuo" width="35px" /> | [lauravuo](https://github.com/lauravuo) | Laura Vuorenoja | 60 | 100%
 
 ## Repositories
 
-### [.github](https://github.com/kaupunginnaiset/.github) ([6 commits](https://github.com/kaupunginnaiset/.github/graphs/contributors))
+### [kaupunginnaiset.github.io](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io) ([60 commits](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io/graphs/contributors))
 
 * [lauravuo](https://github.com/lauravuo) (100 %)
     
-### [kaupunginnaiset.github.io](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io) ([0 commits](https://github.com/kaupunginnaiset/kaupunginnaiset.github.io/graphs/contributors))
+### [alman-akka](https://github.com/kaupunginnaiset/alman-akka) ([0 commits](https://github.com/kaupunginnaiset/alman-akka/graphs/contributors))
 
 
     
-### [alman-akka](https://github.com/kaupunginnaiset/alman-akka) ([0 commits](https://github.com/kaupunginnaiset/alman-akka/graphs/contributors))
+### [.github](https://github.com/kaupunginnaiset/.github) ([0 commits](https://github.com/kaupunginnaiset/.github/graphs/contributors))
 
 
     
